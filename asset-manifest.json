@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/huynham/lammoireact.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/huynham/lammoireact.git/static/js/main.e30ae898.chunk.js",
+    "main.js.map": "/huynham/lammoireact.git/static/js/main.e30ae898.chunk.js.map",
+    "runtime-main.js": "/huynham/lammoireact.git/static/js/runtime-main.1e91d5ab.js",
+    "runtime-main.js.map": "/huynham/lammoireact.git/static/js/runtime-main.1e91d5ab.js.map",
+    "static/js/2.dc81d6a0.chunk.js": "/huynham/lammoireact.git/static/js/2.dc81d6a0.chunk.js",
+    "static/js/2.dc81d6a0.chunk.js.map": "/huynham/lammoireact.git/static/js/2.dc81d6a0.chunk.js.map",
+    "static/js/3.ed8f4583.chunk.js": "/huynham/lammoireact.git/static/js/3.ed8f4583.chunk.js",
+    "static/js/3.ed8f4583.chunk.js.map": "/huynham/lammoireact.git/static/js/3.ed8f4583.chunk.js.map",
+    "index.html": "/huynham/lammoireact.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/huynham/lammoireact.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dc81d6a0.chunk.js.LICENSE.txt": "/huynham/lammoireact.git/static/js/2.dc81d6a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/huynham/lammoireact.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e91d5ab.js",
+    "static/js/2.dc81d6a0.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e30ae898.chunk.js"
+  ]
+}
